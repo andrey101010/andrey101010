@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Andrey, I am a phD student working on instrumentation development woth a stromg focus on building analysis pipelines for benchmarking.
-- 🔭 I’m currently working on analysis pipeline to evaluate and quantify mass spectrometric signals
-- 🌱 I’m currently learning GCP
+- 🔭 I’m currently working on the pump sensor detector data you can find on kaggle
+- 🌱 I’m currently learning time series with ARIMA
 - 💬 Ask me about the mass spectrometry, laser and how to build analysis pipelines in python to evaluate performance 
 
 <!--
