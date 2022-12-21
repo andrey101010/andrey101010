@@ -7,6 +7,6 @@
 **andrey101010/andrey101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 📫 How to reach me: Github and Tweeter
+- 📫 How to reach me: [Github and Tweeter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 -->
