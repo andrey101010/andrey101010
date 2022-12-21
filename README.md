@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning time series with ARIMA
 - 💬 Ask me about the mass spectrometry, laser and how to build analysis pipelines in python to evaluate performance 
 
-[![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andrey-krutilin)
+[![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-krutilin)
 
 
 <!--
