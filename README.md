@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Andrey, I am have a PhD in chemistry and I have specialized on instrumentation development woth a stromg focus on building analysis pipelines for benchmarking.
 - 🔭 I’m currently working on the pump sensor detector data you can find on kaggle
-- 🌱 I’m currently learning time series with ARIMA
+- 🌱 I’m currently learning time series with Multivariante time series analysis and MLflow  
 - 💬 Ask me about the mass spectrometry, laser and how to build analysis pipelines in python to evaluate performance 
 
 [![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-krutilin)
