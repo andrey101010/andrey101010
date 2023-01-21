@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Andrey, I have a PhD in chemistry and I am specialized on instrumentation development with a strong focus on building analysis pipelines for benchmarking.
-- 🔭 I’m currently working on the Fashion MNIST dataset with Tensorflow and Pytorch
+- 🔭 So far I worked with: Python, Numpy, Scipy, Pandas, Sklearn, Pytorch and Torchvision as well as Tensorflow and Keras. 
 - 🌱 I’m currently learning time series with Multivariante time series analysis and MLflow  
 - 💬 Ask me about the mass spectrometry, laser and how to build analysis pipelines in python to evaluate performance 
 - 📫 How to reach me:  
