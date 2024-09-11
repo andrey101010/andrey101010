@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Andrey, I have a PhD in physical chemistry and Data Scientist 
+### Hi there 👋 my name is Andrey, I have a PhD in analytical chemistry and Data Scientist 
 
 - Over 6 years of extensive experience in fundamental and applied research within the life sciences
 - Versatile expertise in both natural sciences and information technology, blending analytical skills, computational tools, and domain-specific knowledge to solve complex research challenges
