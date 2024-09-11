@@ -1,7 +1,9 @@
-### Hi there 👋 my name is Andrey, I have a PhD in physical chemistry and I am specialized on instrumentation development with a strong focus on building analysis pipelines for benchmarking.
-- 🔭 So far I have worked with: Python, Numpy, Scipy, Pandas, Sklearn, Pytorch and Torchvision, Tensorflow and Keras, MLflow, OpenCV, Open3d, as well as SQL. 
-- 🌱 I’m currently learning time series with multivariante time series analysis and MLflow  
-- 💬 Ask me how to build analysis pipelines in Python to evaluate the performance of a technical instrument. Also, if you want to know how to model complex physical phenomena, you are in the right place. 
+### Hi there 👋 my name is Andrey, I have a PhD in physical chemistry and Data Scientist 
+
+- Over 6 years of extensive experience in fundamental and applied research within the life sciences
+- Versatile expertise in both natural sciences and information technology, blending analytical skills, computational tools, and domain-specific knowledge to solve complex research challenges
+- Adept at thriving in dynamic, international environments, collaborating with multidisciplinary teams
+
 - 📫 How to reach me:  
 
 [![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-krutilin)
