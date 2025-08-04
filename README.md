@@ -1,8 +1,10 @@
 ### Hi there 👋 my name is Andrey, I have a PhD in analytical chemistry and Data Scientist 
 
-- Over 6 years of extensive experience in fundamental and applied research within the life sciences
-- Versatile expertise in both natural sciences and information technology, blending analytical skills, computational tools, and domain-specific knowledge to solve complex research challenges
-- Adept at thriving in dynamic, international environments, collaborating with multidisciplinary teams
+LLM for Company-Tender Matching: I am developing a large language model (LLM) in German to improve the matching of companies with public tenders (Vergabe). The goal is to create a more efficient and accurate system by analyzing complex project and company data.
+
+Digitalization of Bauleitpläne: My work in computer vision focuses on creating a pipeline to digitize Bauleitpläne (land-use plans). The system processes these documents and automatically sorts them according to the XPLAN standard, which will significantly improve data management for urban planning.
+
+ISO-Compliant Application: I am leading the development of an application that will adhere to international ISO standards. The project is on track to be completed by the end of 2025, with a focus on meeting all technical and compliance requirements.
 
 - 📫 How to reach me:  
 
